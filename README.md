@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Pkptech
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# video-chat-one-to-one-node-js
+simple one to one video chat app using socket.io, peer js, node js, webRTC
 
-<!---
-Pkptech/Pkptech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![one to one video chat screenshots](https://user-images.githubusercontent.com/24524924/110233509-67294f00-7f4a-11eb-9dc8-0c4e1424b860.png)
